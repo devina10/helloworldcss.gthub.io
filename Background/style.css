@@ -1,0 +1,19 @@
+h1 {
+  font-size: 200px; color: blue;
+  text-decoration: underline;
+  
+  
+}
+
+p{
+	font-size: 35px; color: lightblue;
+  text-decoration: underline;
+  
+}
+
+body {
+background-color: white;
+background-image: url(fotodevi.jpeg);
+background-repeat: no-repeat;
+background-position: bottom center;
+}
